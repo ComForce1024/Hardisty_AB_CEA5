@@ -1,0 +1,19 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/force1024-airport-cea5-hardisty/Thumbnail.jpg",
+      "size": 15333,
+      "date": 132538288318870000
+    },
+    {
+      "path": "scenery/cea5-airport.bgl",
+      "size": 3931,
+      "date": 132538388608763697
+    },
+    {
+      "path": "scenery/SCENERY-CLEANUP.BGL",
+      "size": 5111,
+      "date": 132538388609121732
+    }
+  ]
+}
